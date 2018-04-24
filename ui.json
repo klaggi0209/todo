@@ -3,9 +3,9 @@
   "namespace": "MyFirstView",
   "menuEntries": [
     {
-      "label": "Hello World",
+      "label": "ToDo List",
       "menu": "start",
-      "urlKey": "hello-world",
+      "urlKey": "todo-list",
       "entryPoint": "index.html"
     }
   ]

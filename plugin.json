@@ -1,7 +1,7 @@
 {
-  "name": "MyFirstView",
+  "name": "Schichtplaner",
   "description": "My first back end view",
-  "namespace": "MyFirstView",
+  "namespace": "Schichtplaner",
   "author": "KS-COMMERCE",
   "type": "backend",
   "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider",

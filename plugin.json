@@ -4,7 +4,7 @@
   "namespace": "Schichtplaner",
   "author": "KS-COMMERCE",
   "type": "backend",
-  "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider",
+  "serviceProvider": "Schichtplaner\\Providers\\SchichtplanerServiceProvider",
   "version":"0.0.1",
   "license":"MIT",
   "keywords":["terra","backend", "first", "view"],

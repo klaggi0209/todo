@@ -1,11 +1,11 @@
 <?php
 
-namespace MyFirstView\Providers;
+namespace Schichtplaner\Providers;
 
 
 use Plenty\Plugin\ServiceProvider;
 
-    class MyFirstViewServiceProvider extends ServiceProvider
+    class SchichtplanerServiceProvider extends ServiceProvider
     {
         public function register()
         {

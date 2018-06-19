@@ -1,6 +1,6 @@
 {
   "defaultEntryPoint": "index.html",
-  "namespace": "MyFirstView",
+  "namespace": "Schichtplaner",
   "menuEntries": [
     {
       "label": "Schichtplaner",

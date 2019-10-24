@@ -1,11 +1,11 @@
 {
   "defaultEntryPoint": "index.html",
-  "namespace": "Schichtplaner",
+  "namespace": "Nachbestellung",
   "menuEntries": [
     {
-      "label": "Schichtplaner",
+      "label": "Nachbestellung",
       "menu": "start",
-      "urlKey": "schichtplaner",
+      "urlKey": "nachbestellung",
       "entryPoint": "index.html"
     }
   ]

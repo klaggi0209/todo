@@ -3,8 +3,8 @@
   "namespace": "Nachbestellung",
   "menuEntries": [
     {
-      "label": "Nachbestellung",
-      "menu": "start",
+      "label": "Nachbestellung Klaggi",
+      "menu": "stock",
       "urlKey": "nachbestellung",
       "entryPoint": "index.html"
     }

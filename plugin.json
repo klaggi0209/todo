@@ -1,7 +1,7 @@
 {
-  "name": "Schichtplaner",
-  "description": "My first back end view",
-  "namespace": "Schichtplaner",
+  "name": "Nachbestellung",
+  "description": "Nachbestellung",
+  "namespace": "Nachbestellung",
   "author": "KS-COMMERCE",
   "type": "backend",
   "serviceProvider": "Schichtplaner\\Providers\\SchichtplanerServiceProvider",

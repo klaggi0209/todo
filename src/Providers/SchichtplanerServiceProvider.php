@@ -1,11 +1,11 @@
 <?php
 
-namespace Schichtplaner\Providers;
+namespace Nachbestellung\Providers;
 
 
 use Plenty\Plugin\ServiceProvider;
 
-    class SchichtplanerServiceProvider extends ServiceProvider
+    class NachbestellungServiceProvider extends ServiceProvider
     {
         public function register()
         {
